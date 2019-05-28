@@ -1,0 +1,23 @@
+_repo: Hunting-the-Hun_59519
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Belton, James
+    gutenberg_agent_id: '50485'
+    url: http://www.gutenberg.org/2009/agents/50485
+  - agent_name: Odell, Ernest Gregory
+    gutenberg_agent_id: '50486'
+    url: http://www.gutenberg.org/2009/agents/50486
+description: ''
+gutenberg_issued: '2019-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hunting the Hun
+url: http://www.gutenberg.org/ebooks/59519
